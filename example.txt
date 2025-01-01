@@ -1,2 +1,3 @@
 test file
+added content from vi editor
 added content from browser
